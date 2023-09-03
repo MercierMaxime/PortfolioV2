@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Sublima';
+    src:  url('./assets/font/Sublima-ExtraBold.otf') format('otf'),
+          url('./assets/font/Sublima-Light.otf') format('otf');
+  }

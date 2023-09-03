@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" rx="35" fill="white"/>
+<path d="M122.25 106.495L84.75 128.146C79.75 131.033 73.5 127.424 73.5 121.651L73.5 78.3493C73.5 72.5759 79.75 68.9674 84.75 71.8542L122.25 93.5048C127.25 96.3916 127.25 103.608 122.25 106.495Z" fill="white" stroke="black" stroke-width="5"/>
+<rect x="26.5" y="16" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="26.5" y="169.5" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="59" y="16" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="59" y="169.5" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="91.5" y="16" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="91.5" y="169.5" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="124" y="16" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="124" y="169.5" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="156.5" y="16" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="156.5" y="169.5" width="14.5" height="14.5" fill="white" stroke="black" stroke-width="3"/>
+</svg>
