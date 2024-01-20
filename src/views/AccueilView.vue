@@ -273,11 +273,11 @@ async createProjet(){
           </div>
       </div>
       <div class="grid grid-rows-5 grid-flow-row mr-5">
-        <h3 class="mt-12 ml-5  lg:mt-20 xl:mt-20 font-sublima lg:text-lg xl:text-xl">Étudiant en 3e année au sein du département MMI de Montbéliard, je me spécialise dans la Communication Web et l'Expérience Utilisateur (UX).</h3>
-        <h3 class="pt-5 font-sublima ml-5 mb-0 sm:mt-5 md:mt-3 lg:text-lg xl:text-xl">Mon domaine d'expertise s'étend à la conception de stratégies de communication, visant à optimiser le référencement des sites dont j'ai la charge.</h3>
-        <h3 class="ml-5 mt-3 font-sublima font-bold lg:text-lg xl:text-xl">Grâce à cela, j'ai pu apporter des soltions adaptées et innovantes à mes projets.</h3>
-        <h3 class="ml-5 font-sublima lg:text-lg xl:text-xl">Ayant donc d’ores et déjà réaliser des projets collectifs, il m’est désormais naturel de communiquer de façon efficace et régulière avec mes collaborateurs ainsi qu’avec le commanditaire du projet.</h3>
-        <h3 class="ml-5 font-sublima lg:text-lg xl:text-xl">Je m'investis également dans la création de maquettes graphiques, ainsi que dans l'intégration de sites Web responsives, aussi bien statiques que dynamiques. Mon approche créative et technique se conjugue pour donner vie à des projets web esthétiques et fonctionnels.</h3>
+        <h3 class="mt-12 ml-5  lg:mt-20 xl:mt-20 lg:text-lg xl:text-xl">Étudiant en 3e année au sein du département MMI de Montbéliard, je me spécialise dans la Communication Web et l'Expérience Utilisateur (UX).</h3>
+        <h3 class="pt-5 ml-5 mb-0 sm:mt-5 md:mt-3 lg:text-lg xl:text-xl">Mon domaine d'expertise s'étend à la conception de stratégies de communication, visant à optimiser le référencement des sites dont j'ai la charge.</h3>
+        <h3 class="ml-5 mt-3 font-bold lg:text-lg xl:text-xl">Grâce à cela, j'ai pu apporter des soltions adaptées et innovantes à mes projets.</h3>
+        <h3 class="ml-5 lg:text-lg xl:text-xl">Ayant donc d’ores et déjà réaliser des projets collectifs, il m’est désormais naturel de communiquer de façon efficace et régulière avec mes collaborateurs ainsi qu’avec le commanditaire du projet.</h3>
+        <h3 class="ml-5 lg:text-lg xl:text-xl">Je m'investis également dans la création de maquettes graphiques, ainsi que dans l'intégration de sites Web responsives, aussi bien statiques que dynamiques. Mon approche créative et technique se conjugue pour donner vie à des projets web esthétiques et fonctionnels.</h3>
       </div>
     </div>
 
