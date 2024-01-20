@@ -244,7 +244,7 @@ async createProjet(){
 </style>
 
 <template>
-<div class="text-white bg-black font-sublima">
+<div class="text-white bg-black font-meduim">
   <Header/>
   <div>
     <audio ref="audioPlayer" autoplay>
@@ -252,10 +252,10 @@ async createProjet(){
       Your browser does not support the audio element.
     </audio>
   </div>
-  <h1 class="welcome text-Noir text-center pt-80 text-3xl md:text-4xl lg:text-4xl xl:text-4xl">Portfolio</h1>
-  <h2 class="animate__animated animate__backInLeft text-center lg:ml-96 xl:ml-96 font-bold text-2xl md:text-3xl lg:text-3xl xl:text-3xl rounded-lg">Maxime Mercier</h2>
+  <h1 class=" text-Blanc font-bold text-center pt-80 text-3xl md:text-4xl lg:text-4xl xl:text-4xl">Portfolio</h1>
+  <h2 class="animate__animated animate__backInLeft text-center lg:ml-96 xl:ml-96 font-semibold text-2xl md:text-3xl lg:text-3xl xl:text-3xl rounded-lg">Maxime Mercier</h2>
     <div class="grid grid-cols-2 space-x-4 mt-60">
-      <h3 class="text-left ml-5 font-bold sm:text-sm md:text-base lg:text-xl xl:text-xl">2023</h3>
+      <h3 class="text-left ml-5 font-bold sm:text-sm md:text-base lg:text-xl xl:text-xl">2024</h3>
       <div class="grid grid-cols-2">
         <h3 class="text-right ml-5 font-bold sm:text-sm md:text-base lg:text-lg xl:text-xl">Contact :</h3>
         <a href="mailto:maximemercier163@gmail.com" class="text-left ml-2 hover:underline sm:text-sm md:text-base lg:text-lg xl:text-xl">maximemercier163@gmail.com</a>
@@ -273,11 +273,11 @@ async createProjet(){
           </div>
       </div>
       <div class="grid grid-rows-5 grid-flow-row mr-5">
-        <h3 class="mt-12 ml-5 lg:mt-20 xl:mt-20 font-sublima lg:text-lg xl:text-xl">Etudiant en 3e année au sein du département MMI de Montbéliard.</h3>
-        <h3 class="font-sublima ml-5 sm:mt-5 md:mt-3 lg:text-lg xl:text-xl">Spécialisé dans la Communication Web et l’Expérience Utilisateur (UX), je développe la stratégie de communication afin de trouver les meilleures méthodes de référencement pour les différents sites à ma charge.</h3>
-        <h3 class="mt-8 ml-5 font-sublima font-bold lg:text-lg xl:text-xl">Grâce à cela, la notoriété de ces derniers est nettement plus grande au sein du grand public.</h3>
-        <h3 class="mt-5 ml-5 font-sublima lg:text-lg xl:text-xl">Ayant donc d’ores et déjà réaliser des projets collectifs, il m’est désormais naturel de communiquer de façon efficace et régulière avec mes collaborateurs ainsi qu’avec le commanditaire du projet.</h3>
-        <h3 class="mt-5 ml-5 font-sublima lg:text-lg xl:text-xl">En plus de cela, je procède à d’autres créations telles que des maquettes graphiques, ainsi que l’intégration de sites Web responsives, statiques comme dynamiques.</h3>
+        <h3 class="mt-12 ml-5  lg:mt-20 xl:mt-20 font-sublima lg:text-lg xl:text-xl">Étudiant en 3e année au sein du département MMI de Montbéliard, je me spécialise dans la Communication Web et l'Expérience Utilisateur (UX).</h3>
+        <h3 class="pt-5 font-sublima ml-5 mb-0 sm:mt-5 md:mt-3 lg:text-lg xl:text-xl">Mon domaine d'expertise s'étend à la conception de stratégies de communication, visant à optimiser le référencement des sites dont j'ai la charge.</h3>
+        <h3 class="ml-5 mt-3 font-sublima font-bold lg:text-lg xl:text-xl">Grâce à cela, j'ai pu apporter des soltions adaptées et innovantes à mes projets.</h3>
+        <h3 class="ml-5 font-sublima lg:text-lg xl:text-xl">Ayant donc d’ores et déjà réaliser des projets collectifs, il m’est désormais naturel de communiquer de façon efficace et régulière avec mes collaborateurs ainsi qu’avec le commanditaire du projet.</h3>
+        <h3 class="ml-5 font-sublima lg:text-lg xl:text-xl">Je m'investis également dans la création de maquettes graphiques, ainsi que dans l'intégration de sites Web responsives, aussi bien statiques que dynamiques. Mon approche créative et technique se conjugue pour donner vie à des projets web esthétiques et fonctionnels.</h3>
       </div>
     </div>
 
@@ -294,7 +294,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Gestion des publications - Modérations de la communauté</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Gestion des publications - Modérations de la communauté</h4>
           </div>
         </div>
       </div>
@@ -304,7 +304,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Optimiser la mise en avant des projets pour le grand public</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Optimiser la mise en avant des projets pour le grand public</h4>
           </div>
         </div>
       </div>
@@ -317,7 +317,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Optimisation pour les moteurs de recherches</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Optimisation pour les moteurs de recherche</h4>
           </div>
         </div>
       </div>
@@ -327,7 +327,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Gestion des tâches - Echanges avec le commanditaire</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Gestion des tâches - Échanges avec le commanditaire</h4>
           </div>
         </div>
       </div>
@@ -340,7 +340,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Expliquer et Argumenter sur le potentiel des projets aux clients</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Expliquer et Argumenter sur le potentiel des projets aux clients</h4>
           </div>
         </div>
       </div>
@@ -350,7 +350,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Consultation des tendances du web, Comprendre les nouveaux besoins des utilisateurs</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Consultation des tendances du web, Comprendre les nouveaux besoins des utilisateurs</h4>
           </div>
         </div>
       </div>
@@ -369,7 +369,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Google Drive, Docs, Slides, Sheets, Forms</h4>
+            <h4 class="tflex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Google Drive, Docs, Slides, Sheets, Forms</h4>
           </div>
         </div>
       </div>
@@ -389,7 +389,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Donner un aperçu du futur site, présentation pour les clients</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Donner un aperçu du futur site, présentation pour les clients</h4>
           </div>
         </div>
       </div>
@@ -403,7 +403,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Réalisation de vidéos avec gestion images et son / Montage vidéo</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Réalisation de vidéos avec gestion images et son / Montage vidéo</h4>
           </div>
         </div>
       </div>
@@ -419,7 +419,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Elaboration de logos, affiches...</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Elaboration de logos, affiches...</h4>
           </div>
         </div>
       </div>
@@ -441,7 +441,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Langages utilisés : HTML/CSS, VueJS, TypeScript</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Langages utilisés : HTML/CSS, VueJS, TypeScript</h4>
           </div>
         </div>
       </div>
@@ -458,7 +458,7 @@ async createProjet(){
         </div>
         <div class="pt-5">
           <div class="container relative flex flex-grow flex-col items-center justify-center gap-2.5 self-stretch bg-Blanc px-10 py-2">
-            <h4 class="txt flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Visual Studio Code, Wordpress, Github, Supabase, Firebase</h4>
+            <h4 class="flex-shrink-0 flex-grow-0 self-stretch text-center font-bold text-Noir text-xs md:text-sm lg:text-base xl:text-base">Visual Studio Code, Wordpress, Github, Supabase, Firebase</h4>
           </div>
         </div>
       </div>
